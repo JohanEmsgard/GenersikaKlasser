@@ -1,0 +1,15 @@
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\bin\Debug\net6.0\GenersikaKlasser.exe
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\bin\Debug\net6.0\GenersikaKlasser.deps.json
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\bin\Debug\net6.0\GenersikaKlasser.runtimeconfig.json
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\bin\Debug\net6.0\GenersikaKlasser.dll
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\bin\Debug\net6.0\GenersikaKlasser.pdb
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.dll
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\refint\GenersikaKlasser.dll
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.pdb
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\GenersikaKlasser.genruntimeconfig.cache
+C:\Users\emsgard.johan\Programering 2\GenersikaKlasser\GenersikaKlasser\obj\Debug\net6.0\ref\GenersikaKlasser.dll
