@@ -1,6 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;  
 
+Dictionary<string, string> ordbok =new();
+
+ordbok.Add("Dude,", "NEEEEEEEEEJ");
+ordbok.Add("WHYYYYYY","YOU ARE SICK MAN");
+
+    
+string ord = Console.ReadLine();
+
+Console.WriteLine(ordbok[ord]);
+
+Console.ReadLine();
+
+
 Queue<int> prductionLine = new Queue<int>();
 
 prductionLine.Enqueue(10);
